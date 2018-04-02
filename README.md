@@ -1,1 +1,1 @@
-# blockchain-with-Javascript
+# Blockchain with Javascript
